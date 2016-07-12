@@ -1,4 +1,4 @@
-# Convolutional Neural Networks for Sentence Classification
+# Sentence Classification With Convolutional Neural Networks
 
 This is an extension of yoonkim's implementation of CNN_sentence to classify test sentences.
 The original implementation can be found here: https://github.com/yoonkim/CNN_sentence
