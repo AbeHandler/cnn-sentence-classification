@@ -1,6 +1,6 @@
 # Sentence Classification With Convolutional Neural Networks
 
-This is an extension of yoonkim's implementation of CNN_sentence to classify test sentences.
+This is an extension of yoonkim's implementation of CNN_sentence to classify test sentences. In addition to the original Random and Word2Vec embeddings, GloVe support has been added.
 The original implementation can be found here: https://github.com/yoonkim/CNN_sentence
 
 The file conv_net_classes.py is the same file from original implementation.
